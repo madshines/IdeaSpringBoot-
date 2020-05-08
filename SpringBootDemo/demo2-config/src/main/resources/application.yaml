@@ -1,0 +1,29 @@
+#对象写法
+#student:
+#  name: zhang
+#  age: 20
+#student: {name: zhang,age: 10}
+
+#数组（list、Set）
+#pets:
+#  - dog
+#  - cat
+#  - fish
+#pets: [dog,cat,fish]
+
+#student:
+#  id: 1
+#  age: 22
+#  date: 2020/05/06
+#  map:
+#    habbit: love
+#    sex: female
+#    company: yongyou
+#  list:
+#    - hello
+#    - world
+#    - happy
+#  dog:
+#    age: 2
+#    name: wang
+#  name: zhang

@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: dev
+---
+server:
+  port: 8056
+spring:
+  profiles: dev
+---
+server:
+  port: 9204
+spring:
+  profiles: test
+---

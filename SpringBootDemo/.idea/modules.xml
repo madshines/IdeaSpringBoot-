@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo1/Demo1.iml" filepath="$PROJECT_DIR$/Demo1/Demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootAutoConfig/SpringBootAutoConfig.iml" filepath="$PROJECT_DIR$/SpringBootAutoConfig/SpringBootAutoConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootConfig/SpringBootConfig.iml" filepath="$PROJECT_DIR$/SpringBootConfig/SpringBootConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBootDemo.iml" filepath="$PROJECT_DIR$/.idea/SpringBootDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootLog/SpringBootLog.iml" filepath="$PROJECT_DIR$/SpringBootLog/SpringBootLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootProfile/SpringBootProfile.iml" filepath="$PROJECT_DIR$/SpringBootProfile/SpringBootProfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootRestfulCrud/SpringBootRestfulCrud.iml" filepath="$PROJECT_DIR$/SpringBootRestfulCrud/SpringBootRestfulCrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootWeb1/SpringBootWeb1.iml" filepath="$PROJECT_DIR$/SpringBootWeb1/SpringBootWeb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1-quick/demo1-quick.iml" filepath="$PROJECT_DIR$/demo1-quick/demo1-quick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2-config/demo2-config.iml" filepath="$PROJECT_DIR$/demo2-config/demo2-config.iml" />
+    </modules>
+  </component>
+</project>

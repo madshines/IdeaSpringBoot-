@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Demo1" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1-quick/pom.xml" />
+        <option value="$PROJECT_DIR$/demo2-config/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootProfile/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootAutoConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootLog/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootWeb1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootRestfulCrud/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

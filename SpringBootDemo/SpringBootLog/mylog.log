@@ -1,0 +1,11 @@
+2020-05-07 16:36:14.304  INFO 940 --- [main] c.m.demo.SpringBootLogApplicationTests   : Starting SpringBootLogApplicationTests on DESKTOP-RHS3IV4 with PID 940 (started by 17874 in D:\eclipse workspace\SpringBootDemo\SpringBootLog)
+2020-05-07 16:36:14.305 DEBUG 940 --- [main] c.m.demo.SpringBootLogApplicationTests   : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-05-07 16:36:14.306  INFO 940 --- [main] c.m.demo.SpringBootLogApplicationTests   : No active profile set, falling back to default profiles: default
+2020-05-07 16:36:16.531  INFO 940 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-07 16:36:16.865  INFO 940 --- [main] c.m.demo.SpringBootLogApplicationTests   : Started SpringBootLogApplicationTests in 3.213 seconds (JVM running for 4.672)
+2020-05-07 16:36:17.151 TRACE 940 --- [main] c.m.demo.SpringBootLogApplicationTests   : 这是跟踪日志
+2020-05-07 16:36:17.152 DEBUG 940 --- [main] c.m.demo.SpringBootLogApplicationTests   : 这是调试日志
+2020-05-07 16:36:17.152  INFO 940 --- [main] c.m.demo.SpringBootLogApplicationTests   : 这是info日志
+2020-05-07 16:36:17.154  WARN 940 --- [main] c.m.demo.SpringBootLogApplicationTests   : 这是警告日志
+2020-05-07 16:36:17.154 ERROR 940 --- [main] c.m.demo.SpringBootLogApplicationTests   : 这是错误日志
+2020-05-07 16:36:17.184  INFO 940 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
